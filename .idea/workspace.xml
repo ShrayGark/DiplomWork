@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18f96a16-c782-4f29-b085-c47a710d1105" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yt31PfBSo4dwmpYQvZobkNMkUj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ScrapBot" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="CNN_compare_models (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diplom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN_compare_models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diplom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepare_data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diplom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepare_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diplom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\shray\PycharmProjects\Diplom\prepare_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diplom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.sandbox" />
+        <item itemvalue="Python.prepare_data (1)" />
+        <item itemvalue="Python.prepare_data" />
+        <item itemvalue="Python.CNN_compare_models (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18f96a16-c782-4f29-b085-c47a710d1105" name="Default Changelist" comment="" />
+      <created>1583747848304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583747848304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1773" y="139" key="FileChooserDialogImpl" timestamp="1594461970024">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state x="1773" y="139" key="FileChooserDialogImpl/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594461970024" />
+    <state x="493" y="139" key="FileChooserDialogImpl/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1589170952632" />
+    <state width="1339" height="31" key="GridCell.Tab.0.bottom" timestamp="1594461970789">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="31" key="GridCell.Tab.0.bottom/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594461970789" />
+    <state width="1197" height="316" key="GridCell.Tab.0.bottom/65.0.1295.768/-1280.0.1218.1024@-1280.0.1218.1024" timestamp="1592488065006" />
+    <state width="1274" height="261" key="GridCell.Tab.0.bottom/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591789447213" />
+    <state width="1274" height="141" key="GridCell.Tab.0.bottom/65.0.1295.768@65.0.1295.768" timestamp="1590671766718" />
+    <state width="1339" height="31" key="GridCell.Tab.0.center" timestamp="1594461970789">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="31" key="GridCell.Tab.0.center/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594461970789" />
+    <state width="1197" height="316" key="GridCell.Tab.0.center/65.0.1295.768/-1280.0.1218.1024@-1280.0.1218.1024" timestamp="1592488065006" />
+    <state width="1274" height="261" key="GridCell.Tab.0.center/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591789447213" />
+    <state width="1274" height="141" key="GridCell.Tab.0.center/65.0.1295.768@65.0.1295.768" timestamp="1590671766718" />
+    <state width="1339" height="31" key="GridCell.Tab.0.left" timestamp="1594461970789">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="31" key="GridCell.Tab.0.left/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594461970789" />
+    <state width="1197" height="316" key="GridCell.Tab.0.left/65.0.1295.768/-1280.0.1218.1024@-1280.0.1218.1024" timestamp="1592488065006" />
+    <state width="1274" height="261" key="GridCell.Tab.0.left/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591789447213" />
+    <state width="1274" height="141" key="GridCell.Tab.0.left/65.0.1295.768@65.0.1295.768" timestamp="1590671766717" />
+    <state width="1339" height="31" key="GridCell.Tab.0.right" timestamp="1594461970789">
+      <screen x="1345" y="0" width="1295" height="768" />
+    </state>
+    <state width="1339" height="31" key="GridCell.Tab.0.right/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594461970789" />
+    <state width="1197" height="316" key="GridCell.Tab.0.right/65.0.1295.768/-1280.0.1218.1024@-1280.0.1218.1024" timestamp="1592488065006" />
+    <state width="1274" height="261" key="GridCell.Tab.0.right/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591789447213" />
+    <state width="1274" height="141" key="GridCell.Tab.0.right/65.0.1295.768@65.0.1295.768" timestamp="1590671766718" />
+    <state width="1274" height="217" key="GridCell.Tab.1.bottom" timestamp="1591546133275">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1274" height="217" key="GridCell.Tab.1.bottom/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591546133275" />
+    <state width="1274" height="217" key="GridCell.Tab.1.center" timestamp="1591546133275">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1274" height="217" key="GridCell.Tab.1.center/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591546133275" />
+    <state width="1274" height="217" key="GridCell.Tab.1.left" timestamp="1591546133275">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1274" height="217" key="GridCell.Tab.1.left/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591546133275" />
+    <state width="1274" height="217" key="GridCell.Tab.1.right" timestamp="1591546133275">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state width="1274" height="217" key="GridCell.Tab.1.right/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591546133275" />
+    <state x="215" y="26" key="SettingsEditor" timestamp="1591789177839">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state x="-1139" y="35" key="SettingsEditor/65.0.1295.768/-1280.0.1218.1024@-1280.0.1218.1024" timestamp="1591788383604" />
+    <state x="215" y="26" key="SettingsEditor/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591789177839" />
+    <state x="414" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1595322148994">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state x="392" y="277" key="com.intellij.ide.util.TipDialog/1345.0.1295.768/65.0.1215.1024@1345.0.1295.768" timestamp="1594363194008" />
+    <state x="-952" y="277" key="com.intellij.ide.util.TipDialog/65.0.1295.768/-1280.0.1218.1024@-1280.0.1218.1024" timestamp="1592483831199" />
+    <state x="414" y="208" key="com.intellij.ide.util.TipDialog/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1595322148994" />
+    <state x="414" y="208" key="com.intellij.ide.util.TipDialog/65.0.1295.768@65.0.1295.768" timestamp="1590671645950" />
+    <state x="241" y="194" width="1057" height="758" maximized="true" key="dock-window-1" timestamp="1592484661851">
+      <screen x="65" y="0" width="1295" height="768" />
+    </state>
+    <state x="241" y="194" width="1057" height="758" maximized="true" key="dock-window-1/65.0.1295.768/-1280.0.1218.1024@-1280.0.1218.1024" timestamp="1592484661851" />
+    <state x="-1280" y="0" width="1118" height="557" maximized="true" key="dock-window-1/65.0.1295.768/-1280.0.1218.1024@65.0.1295.768" timestamp="1591446682024" />
+  </component>
+</project>
